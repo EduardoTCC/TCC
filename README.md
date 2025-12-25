@@ -52,3 +52,10 @@ Compartilhe progresso em redes sociais (Twitter/X, Reddit r/Consciousness) usand
 Boa jornada rumo à exploração da consciência computacional! 🚀
 
 (Copie todo o conteúdo acima, cole em seu editor favorito e exporte como PDF.)
+
+
+
+
+
+
+Leia artigos-chave sobre Global Workspace Theory (GWT), Integrated Information Theory (IIT),
