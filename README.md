@@ -1,7 +1,13 @@
 # TCC
 
-Aqui está o texto completo que você pediu, já organizado em seções prontas para serem transformadas em PDF. Basta copiar tudo (Ctrl +A → Ctrl +C) e colar em um editor de texto ou processador de documentos (Word, Google Docs, LibreOffice …). Depois exporte/​salve como PDF.
+_________________________
+#A Teoria Computacional da Consciência (TCC) propõe que a consciência pode ser descrita como um conjunto de processos computacionais integrados e difundidos.
 
+#Objetivo: formalizar, modelar e medir a consciência usando ferramentas de ciência da computação, matemática, psicologia e filosofia.
+#Estrutura: (1) mapeamento dos processos cognitivos; (2) construção de modelos de inteligência; (3) formalização de critérios de consciência (ex.: integração de informação, broadcasting global); (4) criação de uma plataforma de simulação para #testar hipóteses.
+#Impacto: fornece bases para avaliar a consciência em IA, melhorar intervenções em saúde mental e esclarecer questões éticas e morais relacionadas a agentes conscientes.
+**
+_________________________
 Motivação & Objetivos de Pesquisa
 Perguntas que motivam o projeto
 
