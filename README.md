@@ -8,8 +8,12 @@ Estrutura: (1) mapeamento dos processos cognitivos; (2) construção de modelos 
 Impacto: fornece bases para avaliar a consciência em IA, melhorar intervenções em saúde mental e esclarecer questões éticas e morais relacionadas a agentes conscientes.
 
 _________________________
+
+Importante: A criação de um sistema que realmente possua experiência subjetiva (consciência) ainda é um problema aberto na ciência. Não há garantia de sucesso, e há questões éticas, legais e de segurança que precisam ser consideradas desde o início. O que segue são diretrizes de pesquisa que podem orientar um projeto sério e responsável dentro da Teoria Computacional da Consciência (TCC).
 Motivação & Objetivos de Pesquisa
 Perguntas que motivam o projeto
+
+_________________________
 
 Será que máquinas podem ter experiência consciente semelhante à humana?
 A tecnologia pode ampliar a capacidade de pensamento?
