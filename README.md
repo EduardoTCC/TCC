@@ -14,6 +14,15 @@ Motivação & Objetivos de Pesquisa
 Perguntas que motivam o projeto
 
 _________________________
+Perguntas importante
+Qual aspecto da consciência? ex.: percepção, auto‑reflexão, sensação de “eu”, qualia	Diferentes teorias focam em componentes distintos.
+Como será medida? ex.: nível de integração de informação (Φ), “ignição” neural (GWT), comportamento reportável	Sem métricas operacionais não há como validar o resultado.
+Qual nível de complexidade? simples (um “estado consciente” binário) vs. rico (multidimensional)	Determina a arquitetura necessária e o e
+
+
+
+MOTIVAÇÂO_
+
 
 Será que máquinas podem ter experiência consciente semelhante à humana?
 A tecnologia pode ampliar a capacidade de pensamento?
@@ -61,7 +70,7 @@ Celebre micro‑conquistas (cada notebook rodado, cada paper lido, cada linha de
 Compartilhe progresso em redes sociais (Twitter/X, Reddit r/Consciousness) usando a hashtag #TCCJourney – isso cria responsabilidade externa e pode atrair colaboradores.
 Boa jornada rumo à exploração da consciência computacional! 🚀
 
-(Copie todo o conteúdo acima, cole em seu editor favorito e exporte como PDF.)
+
 
 
 
